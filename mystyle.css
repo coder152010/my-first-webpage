@@ -3,23 +3,23 @@ body{
 }
 .wrapper{
 position: absolute;
-top: 50%;
-left: 50%;
+top: 25%;
+left:45%;
 transform: translate(-50%,-50%);
 }
 .cube-wrap {
-width: 40px;
-height: 40px;
-perspective: 200px;
-perspective-origin: 20% -200px;
+width: 150px;
+height: 150px;
+perspective: 2000px;
+perspective-origin: 50% -500px;
 }
 .single-box {
 background-image: url(bg.jpg);
 background-size: cover;
 display: block;
 position: absolute;
-width: 360px;
-height: 360px;
+width: 150px;
+height: 150px;
 background-color: #60c2ef;
 transform: rotateY(45deg) translateZ(-200px) rotateX(15deg);
 transform-origin: 50% 50% 0;
