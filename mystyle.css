@@ -1,0 +1,111 @@
+body {
+
+margin: 0;
+
+padding: 0;
+
+fent-family: 'Roboto', sans-serif;
+
+font-weight: 400;
+
+color: #333;
+
+}
+
+p{
+
+font-size: 16px
+
+margin: 0;
+
+padding: 0;
+
+}
+
+a:link {
+
+text-decoration: non;
+
+margin: 0;
+
+}
+
+a:visited{
+
+text-decoration: none;
+
+padding: 0;
+
+}
+
+h1, h2, h3, h4, h5, h6, ul, ol, li{
+
+margin: 0;
+
+padding: 0;
+
+}
+
+ul, ol{
+
+list-style-type;
+
+}
+
+::selection{
+
+color: #fff;
+
+background-color: #333;
+
+}
+
+::-moz-selection{
+
+color: #fff;
+
+background-color: : #333;
+
+}
+
+.clearfix::after{
+
+content:"";
+
+display: tabble;
+
+clear: both;
+
+}
+
+.top-nav{
+
+position: fixed;
+
+width: 100%
+
+height: auto;
+
+border-bottom: 1px solid #ccc;
+
+}
+
+.logo:link {
+
+color: #333;
+
+padding: 30px :important;
+
+}
+
+.logo:visited {
+
+colot: #333;
+
+}
+
+.logo img {
+
+width: 100px;
+
+}
