@@ -41,7 +41,7 @@ transform: rotateX(90deg) translateZ(180px);
 }
 .side-bottom {
 transform: rotateX(-90deg) translateZ(180px);
-background-image: url(bg.jpg);
+background-image: url(books.jpeg);
 }
 .side-left {
 transform: rotateY(-90deg) translateZ(180px);
