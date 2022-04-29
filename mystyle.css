@@ -36,7 +36,7 @@ transform: translateZ(180px);
 transform: rotateY(180deg) translateZ(180px);
 }
 .side-top {
-background-image: url(bg.jpg);
+background-image: url(books.jpeg);
 transform: rotateX(90deg) translateZ(180px);
 }
 .side-bottom {
