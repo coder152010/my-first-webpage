@@ -8,10 +8,10 @@ left: 50%;
 transform: translate(-50%,-50%);
 }
 .cube-wrap {
-width: 400px;
-height: 400px;
-perspective: 2000px;
-perspective-origin: 50% -500px;
+width: 40px;
+height: 40px;
+perspective: 200px;
+perspective-origin: 20% -200px;
 }
 .single-box {
 background-image: url(bg.jpg);
