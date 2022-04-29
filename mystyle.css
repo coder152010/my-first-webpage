@@ -3,8 +3,8 @@ body{
 }
 .wrapper{
 position: absolute;
-top: 30%;
-left:80%;
+top: 23%;
+left:86%;
 transform: translate(-50%,-50%);
 }
 .cube-wrap {
