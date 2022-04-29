@@ -14,7 +14,7 @@ perspective: 2000px;
 perspective-origin: 50% -500px;
 }
 .single-box {
-background-image: url(bg.jpg);
+background-image: url(books.jpeg);
 background-size: cover;
 display: block;
 position: absolute;
