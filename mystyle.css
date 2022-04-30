@@ -69,14 +69,14 @@ body {
 
 .box, .box::before, .box::after {
     position: absolute;
-    top: 100;
-    bottom: 100;
-    left: 100;
-    right: 100;
+    top: 0;
+    bottom:0;
+    left: 0;
+    right: 0;
 }
 .box {
-    width: 200px;
-    height: 200px;
+    width: 2000px;
+    height: 2000px;
     margin: auto;
     border:5px solid #fff;
 
