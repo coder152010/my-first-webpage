@@ -1,5 +1,6 @@
 html, body{
    background-image:url("meme.jpg");
+   background-size: cover;
 }
 .wrapper{
 position: absolute;
